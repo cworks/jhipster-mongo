@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "hipstermongo",
+    "packageName": "cworks.hipster",
+    "packageFolder": "cworks/hipster",
+    "authenticationType": "oauth2",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useSass": true,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "7c5e2dd29ad8f5fb9ad555c1d5d625e8720896fd",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
